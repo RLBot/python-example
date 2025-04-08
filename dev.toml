@@ -2,7 +2,7 @@
 launcher = "steam"
 # We'll run the bot ourself so we don't have restart the match
 # `python src/bot.py` in our case
-auto_start_bots = false
+auto_start_agents = false
 
 [match]
 enable_rendering = true

@@ -2,7 +2,7 @@
 
 Example of a Python bot using the RLBot framework
 
-Wiki: [VirxEC/python-interface/wiki](https://github.com/VirxEC/python-interface/wiki)
+Wiki: [RLBot/python-interface/wiki](https://github.com/RLBot/python-interface/wiki)
 
 ## Quick Start
 
